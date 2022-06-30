@@ -1,1 +1,1 @@
-# Codility_Practice
+# CodilityPractice
